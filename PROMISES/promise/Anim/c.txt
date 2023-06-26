@@ -1,0 +1,10 @@
+The Promise constructor takes a function (an executor)
+ that will be executed immediately and passes in two 
+ functions: resolve, which must be called when the Promise 
+ is resolved (passing a result), 
+ and reject when it is rejected (passing an error).
+The executor is to be executed by the constructor,
+ during the process of constructing the new Promise object.
+resolveFunction is called on promise fulfilled.
+rejectFunction is called on promise rejection.
+

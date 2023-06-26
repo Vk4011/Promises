@@ -1,0 +1,13 @@
+
+
+A promise will be in any one of the three states:
+
+Pending : Neither fulfilled nor rejected
+Fulfilled : Operation completed successfully
+Rejected : Operation failed
+
+Resolved State
+When a Promise object is Resolved, the result is a value.
+
+
+

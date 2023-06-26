@@ -1,0 +1,11 @@
+Asynchronous JS code style
+There are two main types of asynchronous code style you'll come across in JavaScript:
+
+Callback based
+Example : setTimeout(), setInterval()
+
+Promise based
+Example : fetch()
+
+
+hello vvikra 
