@@ -16,7 +16,9 @@
 const myPromise = () =>{
     return  new Promise((resolve,reject)=>{
         setTimeout(()=>{
+           
             reject("\n\t Promise Rejected \n");
+            resolve("\n\t PRomise is resolved")
         },2000)
     })
 }
